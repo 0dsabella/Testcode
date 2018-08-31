@@ -1,12 +1,11 @@
 let a = 10;
-let b = -25;
-let c = 25;
-let d = -10;
+let b = -35;
 //create two more variables c and d and give them whatever number you want.
-
-
+let c = 25;
+let d = 10;
 const total = a+b+c+d;
 console.log(total);
+
 
 
 
@@ -22,4 +21,4 @@ console.log(greeting);
 let convo2 = "greetings ";
 let convo3 = "human";
 const open = convo2 + convo3;
-console.log();
+console.log(open);

@@ -9,7 +9,7 @@ console.log(bankAccount);
 
 //Did you get what you expect?
 //Write a new statement below which subtracts 5 years of a car payment on line 12.
-
+bankAccount = bankAccount 
 
 //Declare a variable named income on line 15, assign yourself 2500 in income.
 
